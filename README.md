@@ -1,8 +1,8 @@
-# *Name*
-## Gavin Williamson
+## *Name:*
+### * Gavin Williamson
 
-# *Locaion*
-## Pestminster
+## *Location:*
+### * Pestminster
 
-# *Soul Mate*
-## Chronos the Spider
+## *Companion:*
+### * Chronos the Spider
