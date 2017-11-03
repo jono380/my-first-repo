@@ -5,4 +5,4 @@
 ### * Pestminster
 
 ## *Companion:*
-### * Chronos the Spider
+### * Chronos the spider
